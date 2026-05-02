@@ -63,7 +63,7 @@ export default function About() {
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
             >
-              <h2 className="text-4xl md:text-5xl font-serif mb-8 text-text-main leading-tight">
+              <h2 className="text-3xl md:text-5xl font-serif mb-6 md:mb-8 text-text-main leading-tight">
                 Trustworthy & Experienced <br />
                 <span className="text-brand-primary">Local Caterers</span> in Odisha.
               </h2>

@@ -27,9 +27,9 @@ export default function Testimonials() {
     <section id="testimonials" className="py-24 bg-bg-warm overflow-hidden">
       <div className="container mx-auto px-6 md:px-12">
         
-        <div className="flex flex-col items-center text-center mb-16">
+        <div className="flex flex-col items-center text-center mb-12 md:mb-16">
           <span className="text-brand-primary text-[10px] uppercase tracking-[0.4em] font-bold mb-4 block">Kind Words</span>
-          <h2 className="text-4xl md:text-6xl font-serif text-text-main leading-tight mb-4">
+          <h2 className="text-3xl md:text-6xl font-serif text-text-main leading-tight mb-4">
             Hear From Our <span className="italic font-normal">Happy</span> Guests.
           </h2>
           <div className="flex items-center gap-1 text-brand-accent">

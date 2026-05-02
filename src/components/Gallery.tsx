@@ -37,9 +37,9 @@ export default function Gallery() {
   return (
     <section id="gallery" className="py-24 bg-white">
       <div className="container mx-auto px-6 md:px-12">
-        <div className="text-center mb-16">
+        <div className="text-center mb-12 md:after:mb-16">
           <span className="text-brand-primary text-[10px] uppercase tracking-[0.4em] font-bold mb-4 block">Visual Journey</span>
-          <h2 className="text-4xl md:text-5xl font-serif text-text-main mb-6">Capturing the <span className="italic">Essence</span> of Taste.</h2>
+          <h2 className="text-3xl md:text-5xl font-serif text-text-main mb-6">Capturing the <span className="italic">Essence</span> of Taste.</h2>
         </div>
 
         <div className="columns-1 md:columns-2 lg:columns-3 gap-6 space-y-6">

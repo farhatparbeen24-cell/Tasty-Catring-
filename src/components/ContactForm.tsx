@@ -49,7 +49,7 @@ export default function ContactForm() {
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
             >
-              <h2 className="text-4xl md:text-6xl font-serif text-text-main leading-tight mb-8">
+              <h2 className="text-3xl md:text-6xl font-serif text-text-main leading-tight mb-6 md:mb-8">
                 Let's Plan Your <span className="text-brand-primary">Grand</span> Celebration.
               </h2>
               <p className="text-text-main/60 mb-12 text-lg leading-relaxed">

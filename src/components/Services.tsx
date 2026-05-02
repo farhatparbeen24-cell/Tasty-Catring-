@@ -37,10 +37,10 @@ export default function Services() {
     <section id="services" className="py-24 bg-bg-warm">
       <div className="container mx-auto px-6 md:px-12">
         
-        <div className="flex flex-col md:flex-row justify-between items-end mb-16 gap-8">
+        <div className="flex flex-col md:flex-row justify-between items-end mb-12 md:mb-16 gap-8">
           <div className="max-w-2xl">
             <span className="text-brand-primary text-[10px] uppercase tracking-[0.4em] font-bold mb-4 block">Our Expertise</span>
-            <h2 className="text-4xl md:text-6xl font-serif text-text-main leading-tight">
+            <h2 className="text-3xl md:text-6xl font-serif text-text-main leading-tight">
               Crafting <span className="italic font-normal">the Perfect</span> Service for Every Occasion.
             </h2>
           </div>

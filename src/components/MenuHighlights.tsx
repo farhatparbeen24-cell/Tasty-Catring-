@@ -44,9 +44,9 @@ export default function MenuHighlights() {
     <section id="menu" className="py-24 bg-white">
       <div className="container mx-auto px-6 md:px-12">
         
-        <div className="text-center max-w-3xl mx-auto mb-20">
+        <div className="text-center max-w-3xl mx-auto mb-12 md:mb-20">
           <span className="text-brand-primary text-[10px] uppercase tracking-[0.4em] font-bold mb-4 block">A Glimpse of our Craft</span>
-          <h2 className="text-4xl md:text-6xl font-serif text-text-main leading-tight mb-6">
+          <h2 className="text-3xl md:text-6xl font-serif text-text-main leading-tight mb-4 md:mb-6">
             A Symphony of <span className="italic">Flavors</span>
           </h2>
           <p className="text-text-main/60 leading-relaxed">

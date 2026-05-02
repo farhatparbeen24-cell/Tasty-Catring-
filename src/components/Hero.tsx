@@ -21,10 +21,10 @@ export default function Hero() {
               <span className="inline-block py-1 px-3 bg-brand-primary/10 text-brand-primary text-[10px] uppercase tracking-[0.4em] font-bold mb-6 rounded-sm">
                 Exquisite Catering Since 2010
               </span>
-              <h1 className="text-5xl md:text-7xl xl:text-8xl font-serif text-text-main leading-[1.1] mb-8 text-balance">
+              <h1 className="text-4xl md:text-7xl xl:text-8xl font-serif text-text-main leading-[1.1] mb-6 md:mb-8 text-balance">
                 Creating <span className="text-brand-primary italic">Memorable</span> Feasts for Your Finest Moments.
               </h1>
-              <p className="text-lg text-text-main/70 mb-10 max-w-xl leading-relaxed">
+              <p className="text-base md:text-lg text-text-main/70 mb-8 md:mb-10 max-w-xl leading-relaxed">
                 Experience the authentic flavors of Odisha and beyond. From grand weddings in Bhubaneswar to intimate gatherings in Cuttack, we bring professional planning and exceptional taste to every plate.
               </p>
               
